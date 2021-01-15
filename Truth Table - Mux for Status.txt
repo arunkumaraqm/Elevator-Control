@@ -1,0 +1,5 @@
+"Yu, Yd are 0", "Old Status are 0", "Output Status"
+False, False, Newly calculated status
+False, True, Floating
+True, False, Old status
+True, True, Ground floor
